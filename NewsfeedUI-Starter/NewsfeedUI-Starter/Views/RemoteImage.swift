@@ -2,7 +2,7 @@
 //  RemoteImage.swift
 //  NewsfeedUI
 //
-//  Created by Levine, Merlin on 04/29/22.
+//  
 //
 
 import SwiftUI
