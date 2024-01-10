@@ -2,7 +2,7 @@
 //  NewsfeedUI_StarterApp.swift
 //  NewsfeedUI-Starter
 //
-//  Created by Longe, Chris on 1/3/21.
+// 
 //
 
 import SwiftUI
