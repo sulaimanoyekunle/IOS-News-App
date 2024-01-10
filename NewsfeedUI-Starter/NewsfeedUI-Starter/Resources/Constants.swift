@@ -2,7 +2,7 @@
 //  Constants.swift
 //  NewsfeedUI
 //
-//  Created by Fatima Arshad on 12/22/20.
+//  
 //
 
 import Foundation
