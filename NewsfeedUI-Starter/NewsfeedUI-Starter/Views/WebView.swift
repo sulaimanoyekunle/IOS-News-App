@@ -2,7 +2,7 @@
 //  WebView.swift
 //  NewsfeedUI
 //
-//  Created by Levine, Merlin on 12/30/20.
+//  
 //
 
 import SafariServices
